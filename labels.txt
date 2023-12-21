@@ -1,0 +1,2 @@
+0 Confident
+1 Not Confident
